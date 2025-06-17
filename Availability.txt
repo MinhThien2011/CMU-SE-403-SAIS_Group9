@@ -1,0 +1,6 @@
+- Phạm Minh Thiện:
+Feature toggles vaporized Knight Capital in 45 minutes—how would you audit the toggle lifecycle so it can’t become a ticking bomb?
+
+In a zero-downtime upgrade of a stateful system, which live-migration pattern best balances parallel read/write traffic and mixed-version race risk?
+
+Chaos Monkey drops 25 % of nodes at peak—what metric set would definitively prove your architecture is truly fault-tolerant?
