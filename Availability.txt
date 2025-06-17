@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Đỗ Nguyen Minh Quân
 
 When hunting single points of failure, which probing question reliably exposes a hidden dependency that could lurk as a SPOF?
@@ -14,15 +15,12 @@ In a zero-downtime upgrade of a stateful system, which live-migration pattern be
 
 Chaos Monkey drops 25 % of nodes at peak—what metric set would definitively prove your architecture is truly fault-tolerant?
 =======
+=======
+--Trương Quang Anh
+>>>>>>> ebd2442 (new 4,5,6)
 What fault sequence does a classic availability scenario trace, and why must detection, diagnosis, and recovery all be present to shrink MTTR?
 
 How does each fault-detection tactic—heartbeat, timeout, voting, checksum—mathematically shift A = MTBF / (MTBF + MTTR)?
 
 Where do hot-standby (active redundancy) and warm/cold-standby (passive redundancy) diverge on switchover latency, OPEX, and common-mode failure risk?
->>>>>>> 4a9492e (A)
--- Truong Quang Anh
-What fault sequence does a classic availability scenario trace, and why must detection, diagnosis, and recovery all be present to shrink MTTR?
 
-How does each fault-detection tactic—heartbeat, timeout, voting, checksum—mathematically shift A = MTBF / (MTBF + MTTR)?
-
-Where do hot-standby (active redundancy) and warm/cold-standby (passive redundancy) diverge on switchover latency, OPEX, and common-mode failure risk?
