@@ -1,0 +1,7 @@
+Đỗ Nguyen Minh Quân
+
+When hunting single points of failure, which probing question reliably exposes a hidden dependency that could lurk as a SPOF?
+
+Why is “detect early” usually cheaper than “recover instantly,” and which real-world incident proves that economics?
+
+Under what business or architectural pressures should you chase five nines (99.999 %) instead of settling for three nines (99.9 %)?
